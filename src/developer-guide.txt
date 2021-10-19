@@ -1,0 +1,14 @@
+What is state :State use to maintain the data of a class variable in reactjs
+
+How to create state in reactjs?
+	this.state={
+		variableName:value,
+		secondVariable:value,
+		thirdVariable:value
+		}
+		
+How to update the value in state?
+
+		this.setState({
+			variableName:newValue
+		})
